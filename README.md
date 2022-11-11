@@ -1,1 +1,1 @@
-# solana-workshop
+# Solana Workshop
